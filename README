@@ -1,0 +1,7 @@
+terraform init
+terraform plan
+terraform apply
+
+Git
+git remote add origin git@github.com:khoantd/terraform-example.git
+git push origin main
